@@ -1,0 +1,27 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "CSPM Executive Dashboard",
+      "widgets": [
+        {
+          "id": 1,
+          "name": "Widget 1",
+          "text": "Random text for Widget 1",
+          "icon": "chart-bar" 
+        },
+        {
+          "id": 2,
+          "name": "Widget 2",
+          "text": "Random text for Widget 2",
+          "icon": "chart-pie" 
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Marketing Dashboard",
+      "widgets": []
+    }
+  ]
+}
